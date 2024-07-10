@@ -17,6 +17,7 @@
 | [0001-two-sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/Ranjith01111/Coding-challenge/tree/master/0041-first-missing-positive) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ranjith01111/Coding-challenge/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ranjith01111/Coding-challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Ranjith01111/Coding-challenge/tree/master/0041-first-missing-positive) |
 | [0782-jewels-and-stones](https://github.com/Ranjith01111/Coding-challenge/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
