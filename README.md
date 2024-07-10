@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0001-two-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ranjith01111/Coding-challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -19,5 +20,6 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/Ranjith01111/Coding-challenge/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
