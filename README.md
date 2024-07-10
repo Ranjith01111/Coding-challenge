@@ -22,4 +22,8 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/Ranjith01111/Coding-challenge/tree/master/0782-jewels-and-stones) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
