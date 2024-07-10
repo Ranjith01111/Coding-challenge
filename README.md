@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0027-remove-element) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ranjith01111/Coding-challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -39,5 +40,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0027-remove-element) |
 | [2128-reverse-prefix-of-word](https://github.com/Ranjith01111/Coding-challenge/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
