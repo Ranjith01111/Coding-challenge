@@ -7,6 +7,7 @@
 | [0782-jewels-and-stones](https://github.com/Ranjith01111/Coding-challenge/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Ranjith01111/Coding-challenge/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Ranjith01111/Coding-challenge/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranjith01111/Coding-challenge/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ranjith01111/Coding-challenge/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Ranjith01111/Coding-challenge/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/Ranjith01111/Coding-challenge/tree/master/1899-count-items-matching-a-rule) |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ranjith01111/Coding-challenge/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranjith01111/Coding-challenge/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
