@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/Ranjith01111/Coding-challenge/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/Ranjith01111/Coding-challenge/tree/master/0822-unique-morse-code-words) |
 | [1205-defanging-an-ip-address](https://github.com/Ranjith01111/Coding-challenge/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Ranjith01111/Coding-challenge/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranjith01111/Coding-challenge/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -22,6 +23,7 @@
 | [0015-3sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Ranjith01111/Coding-challenge/tree/master/0041-first-missing-positive) |
+| [0822-unique-morse-code-words](https://github.com/Ranjith01111/Coding-challenge/tree/master/0822-unique-morse-code-words) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ranjith01111/Coding-challenge/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ranjith01111/Coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/Ranjith01111/Coding-challenge/tree/master/1899-count-items-matching-a-rule) |
@@ -36,6 +38,7 @@
 | [0001-two-sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Ranjith01111/Coding-challenge/tree/master/0041-first-missing-positive) |
 | [0782-jewels-and-stones](https://github.com/Ranjith01111/Coding-challenge/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/Ranjith01111/Coding-challenge/tree/master/0822-unique-morse-code-words) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ranjith01111/Coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
