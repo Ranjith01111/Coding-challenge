@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Ranjith01111/Coding-challenge/tree/master/0014-longest-common-prefix) |
 | [0782-jewels-and-stones](https://github.com/Ranjith01111/Coding-challenge/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Ranjith01111/Coding-challenge/tree/master/0822-unique-morse-code-words) |
 | [1205-defanging-an-ip-address](https://github.com/Ranjith01111/Coding-challenge/tree/master/1205-defanging-an-ip-address) |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ranjith01111/Coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ranjith01111/Coding-challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
