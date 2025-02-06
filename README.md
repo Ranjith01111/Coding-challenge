@@ -24,6 +24,7 @@
 | [0001-two-sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ranjith01111/Coding-challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Ranjith01111/Coding-challenge/tree/master/0041-first-missing-positive) |
 | [0822-unique-morse-code-words](https://github.com/Ranjith01111/Coding-challenge/tree/master/0822-unique-morse-code-words) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ranjith01111/Coding-challenge/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -91,5 +92,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ranjith01111/Coding-challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ranjith01111/Coding-challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
