@@ -26,6 +26,7 @@
 | [0027-remove-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Ranjith01111/Coding-challenge/tree/master/0041-first-missing-positive) |
 | [0822-unique-morse-code-words](https://github.com/Ranjith01111/Coding-challenge/tree/master/0822-unique-morse-code-words) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ranjith01111/Coding-challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ranjith01111/Coding-challenge/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ranjith01111/Coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/Ranjith01111/Coding-challenge/tree/master/1899-count-items-matching-a-rule) |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ranjith01111/Coding-challenge/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ranjith01111/Coding-challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
