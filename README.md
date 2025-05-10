@@ -53,6 +53,7 @@
 | [0009-palindrome-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/0013-roman-to-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ranjith01111/Coding-challenge/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Ranjith01111/Coding-challenge/tree/master/2238-a-number-after-a-double-reversal) |
 ## Greedy
 |  |
@@ -88,6 +89,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ranjith01111/Coding-challenge/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ranjith01111/Coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Trie
 |  |
