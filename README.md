@@ -36,6 +36,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Ranjith01111/Coding-challenge/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ranjith01111/Coding-challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@
 | [0070-climbing-stairs](https://github.com/Ranjith01111/Coding-challenge/tree/master/0070-climbing-stairs) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ranjith01111/Coding-challenge/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1642-water-bottles](https://github.com/Ranjith01111/Coding-challenge/tree/master/1642-water-bottles) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Ranjith01111/Coding-challenge/tree/master/2238-a-number-after-a-double-reversal) |
 ## Greedy
 |  |
