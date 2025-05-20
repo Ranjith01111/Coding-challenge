@@ -25,6 +25,7 @@
 | [0015-3sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ranjith01111/Coding-challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Ranjith01111/Coding-challenge/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Ranjith01111/Coding-challenge/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Ranjith01111/Coding-challenge/tree/master/0283-move-zeroes) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ranjith01111/Coding-challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Ranjith01111/Coding-challenge/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0162-find-peak-element) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ranjith01111/Coding-challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
