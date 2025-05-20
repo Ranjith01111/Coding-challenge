@@ -29,6 +29,7 @@
 | [0041-first-missing-positive](https://github.com/Ranjith01111/Coding-challenge/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Ranjith01111/Coding-challenge/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Ranjith01111/Coding-challenge/tree/master/0485-max-consecutive-ones) |
 | [0822-unique-morse-code-words](https://github.com/Ranjith01111/Coding-challenge/tree/master/0822-unique-morse-code-words) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ranjith01111/Coding-challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ranjith01111/Coding-challenge/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
