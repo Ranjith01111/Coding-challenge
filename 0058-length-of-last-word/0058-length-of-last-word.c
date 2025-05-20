@@ -4,11 +4,9 @@ int lengthOfLastWord(char* s) {
         if(s[i] != ' '){
             count++;
         }
-        else{
-            if(count > 0){
+        else if(count > 0){
                 return count;
             }
-        }
     }
     return count;
 }
