@@ -29,6 +29,7 @@
 | [0035-search-insert-position](https://github.com/Ranjith01111/Coding-challenge/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Ranjith01111/Coding-challenge/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Ranjith01111/Coding-challenge/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ranjith01111/Coding-challenge/tree/master/0485-max-consecutive-ones) |
 | [0822-unique-morse-code-words](https://github.com/Ranjith01111/Coding-challenge/tree/master/0822-unique-morse-code-words) |
@@ -48,6 +49,7 @@
 | [0001-two-sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Ranjith01111/Coding-challenge/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0169-majority-element) |
 | [0782-jewels-and-stones](https://github.com/Ranjith01111/Coding-challenge/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Ranjith01111/Coding-challenge/tree/master/0822-unique-morse-code-words) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ranjith01111/Coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -69,6 +71,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0169-majority-element) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Ranjith01111/Coding-challenge/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Two Pointers
 |  |
@@ -81,6 +84,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -117,4 +121,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ranjith01111/Coding-challenge/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
