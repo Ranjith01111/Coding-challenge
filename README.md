@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ranjith01111/Coding-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ranjith01111/Coding-challenge/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ranjith01111/Coding-challenge/tree/master/0058-length-of-last-word) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Ranjith01111/Coding-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Ranjith01111/Coding-challenge/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0169-majority-element) |
@@ -59,6 +61,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ranjith01111/Coding-challenge/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Ranjith01111/Coding-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Ranjith01111/Coding-challenge/tree/master/0070-climbing-stairs) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
