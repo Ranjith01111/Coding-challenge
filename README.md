@@ -134,4 +134,20 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ranjith01111/Coding-challenge/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ranjith01111/Coding-challenge/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ranjith01111/Coding-challenge/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ranjith01111/Coding-challenge/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ranjith01111/Coding-challenge/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
