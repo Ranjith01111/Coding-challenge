@@ -34,6 +34,7 @@
 | [0169-majority-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Ranjith01111/Coding-challenge/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ranjith01111/Coding-challenge/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/Ranjith01111/Coding-challenge/tree/master/0682-baseball-game) |
 | [0822-unique-morse-code-words](https://github.com/Ranjith01111/Coding-challenge/tree/master/0822-unique-morse-code-words) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ranjith01111/Coding-challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ranjith01111/Coding-challenge/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -43,6 +44,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Ranjith01111/Coding-challenge/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/Ranjith01111/Coding-challenge/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ranjith01111/Coding-challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -100,6 +102,7 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Ranjith01111/Coding-challenge/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranjith01111/Coding-challenge/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
