@@ -56,6 +56,7 @@
 | [0013-roman-to-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Ranjith01111/Coding-challenge/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0202-happy-number) |
 | [0782-jewels-and-stones](https://github.com/Ranjith01111/Coding-challenge/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Ranjith01111/Coding-challenge/tree/master/0822-unique-morse-code-words) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ranjith01111/Coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -67,6 +68,7 @@
 | [0012-integer-to-roman](https://github.com/Ranjith01111/Coding-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Ranjith01111/Coding-challenge/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0202-happy-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ranjith01111/Coding-challenge/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1642-water-bottles](https://github.com/Ranjith01111/Coding-challenge/tree/master/1642-water-bottles) |
@@ -86,6 +88,7 @@
 | [0015-3sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Ranjith01111/Coding-challenge/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ranjith01111/Coding-challenge/tree/master/0283-move-zeroes) |
 | [2128-reverse-prefix-of-word](https://github.com/Ranjith01111/Coding-challenge/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
