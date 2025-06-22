@@ -31,6 +31,7 @@
 | [0041-first-missing-positive](https://github.com/Ranjith01111/Coding-challenge/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Ranjith01111/Coding-challenge/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ranjith01111/Coding-challenge/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/Ranjith01111/Coding-challenge/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Ranjith01111/Coding-challenge/tree/master/0283-move-zeroes) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ranjith01111/Coding-challenge/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Ranjith01111/Coding-challenge/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
