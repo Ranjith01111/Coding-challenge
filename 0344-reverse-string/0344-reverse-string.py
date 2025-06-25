@@ -3,11 +3,5 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        stack = []
-        for i in s:
-            stack.append(i)
-        i = 0 
-        while len(stack) > 0:
-            m = stack.pop()
-            s[i] = m
-            i+=1 
+        s[:] = s[::-1]
+        return s
