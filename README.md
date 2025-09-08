@@ -36,6 +36,7 @@
 | [0118-pascals-triangle](https://github.com/Ranjith01111/Coding-challenge/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ranjith01111/Coding-challenge/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ranjith01111/Coding-challenge/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Ranjith01111/Coding-challenge/tree/master/0682-baseball-game) |
@@ -60,6 +61,7 @@
 | [0041-first-missing-positive](https://github.com/Ranjith01111/Coding-challenge/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Ranjith01111/Coding-challenge/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Ranjith01111/Coding-challenge/tree/master/0822-unique-morse-code-words) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ranjith01111/Coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -73,6 +75,7 @@
 | [0013-roman-to-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Ranjith01111/Coding-challenge/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ranjith01111/Coding-challenge/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1642-water-bottles](https://github.com/Ranjith01111/Coding-challenge/tree/master/1642-water-bottles) |
@@ -103,6 +106,7 @@
 | [0015-3sum](https://github.com/Ranjith01111/Coding-challenge/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ranjith01111/Coding-challenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -120,6 +124,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ranjith01111/Coding-challenge/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ranjith01111/Coding-challenge/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ranjith01111/Coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Trie
@@ -132,6 +137,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ranjith01111/Coding-challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ranjith01111/Coding-challenge/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ranjith01111/Coding-challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
