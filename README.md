@@ -35,6 +35,7 @@
 | [0075-sort-colors](https://github.com/Ranjith01111/Coding-challenge/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ranjith01111/Coding-challenge/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Ranjith01111/Coding-challenge/tree/master/0118-pascals-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ranjith01111/Coding-challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ranjith01111/Coding-challenge/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ranjith01111/Coding-challenge/tree/master/0240-search-a-2d-matrix-ii) |
@@ -76,6 +77,7 @@
 | [0012-integer-to-roman](https://github.com/Ranjith01111/Coding-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Ranjith01111/Coding-challenge/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ranjith01111/Coding-challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -121,6 +123,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ranjith01111/Coding-challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Ranjith01111/Coding-challenge/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranjith01111/Coding-challenge/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
