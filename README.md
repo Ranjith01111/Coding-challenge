@@ -32,6 +32,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ranjith01111/Coding-challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ranjith01111/Coding-challenge/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Ranjith01111/Coding-challenge/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/Ranjith01111/Coding-challenge/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ranjith01111/Coding-challenge/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ranjith01111/Coding-challenge/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Ranjith01111/Coding-challenge/tree/master/0118-pascals-triangle) |
@@ -76,6 +77,7 @@
 | [0009-palindrome-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Ranjith01111/Coding-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ranjith01111/Coding-challenge/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Ranjith01111/Coding-challenge/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Ranjith01111/Coding-challenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ranjith01111/Coding-challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Ranjith01111/Coding-challenge/tree/master/0202-happy-number) |
